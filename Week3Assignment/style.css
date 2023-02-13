@@ -298,7 +298,7 @@ h3.menu-item-title {
 }
 
 /******Extra Small Devices******/
-@media (min-width: 479px) and (max-width: 767px) {
+@media (max-width: 767px) {
   /*Header*/
 
   .container .jumbotron {
